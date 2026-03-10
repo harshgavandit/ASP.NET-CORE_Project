@@ -1,0 +1,63 @@
+C:\_my_open_source\asp_net_landing_page\Indotalent\bin\Debug\net8.0\appsettings.Development.json
+C:\_my_open_source\asp_net_landing_page\Indotalent\bin\Debug\net8.0\appsettings.json
+C:\_my_open_source\asp_net_landing_page\Indotalent\bin\Debug\net8.0\Indotalent.staticwebassets.runtime.json
+C:\_my_open_source\asp_net_landing_page\Indotalent\bin\Debug\net8.0\Indotalent.exe
+C:\_my_open_source\asp_net_landing_page\Indotalent\bin\Debug\net8.0\Indotalent.deps.json
+C:\_my_open_source\asp_net_landing_page\Indotalent\bin\Debug\net8.0\Indotalent.runtimeconfig.json
+C:\_my_open_source\asp_net_landing_page\Indotalent\bin\Debug\net8.0\Indotalent.dll
+C:\_my_open_source\asp_net_landing_page\Indotalent\bin\Debug\net8.0\Indotalent.pdb
+C:\_my_open_source\asp_net_landing_page\Indotalent\obj\Debug\net8.0\Indotalent.GeneratedMSBuildEditorConfig.editorconfig
+C:\_my_open_source\asp_net_landing_page\Indotalent\obj\Debug\net8.0\Indotalent.AssemblyInfoInputs.cache
+C:\_my_open_source\asp_net_landing_page\Indotalent\obj\Debug\net8.0\Indotalent.AssemblyInfo.cs
+C:\_my_open_source\asp_net_landing_page\Indotalent\obj\Debug\net8.0\Indotalent.csproj.CoreCompileInputs.cache
+C:\_my_open_source\asp_net_landing_page\Indotalent\obj\Debug\net8.0\Indotalent.MvcApplicationPartsAssemblyInfo.cache
+C:\_my_open_source\asp_net_landing_page\Indotalent\obj\Debug\net8.0\Indotalent.RazorAssemblyInfo.cache
+C:\_my_open_source\asp_net_landing_page\Indotalent\obj\Debug\net8.0\Indotalent.RazorAssemblyInfo.cs
+C:\_my_open_source\asp_net_landing_page\Indotalent\obj\Debug\net8.0\staticwebassets.build.json
+C:\_my_open_source\asp_net_landing_page\Indotalent\obj\Debug\net8.0\staticwebassets.development.json
+C:\_my_open_source\asp_net_landing_page\Indotalent\obj\Debug\net8.0\staticwebassets\msbuild.Indotalent.Microsoft.AspNetCore.StaticWebAssets.props
+C:\_my_open_source\asp_net_landing_page\Indotalent\obj\Debug\net8.0\staticwebassets\msbuild.build.Indotalent.props
+C:\_my_open_source\asp_net_landing_page\Indotalent\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Indotalent.props
+C:\_my_open_source\asp_net_landing_page\Indotalent\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Indotalent.props
+C:\_my_open_source\asp_net_landing_page\Indotalent\obj\Debug\net8.0\staticwebassets.pack.json
+C:\_my_open_source\asp_net_landing_page\Indotalent\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\_my_open_source\asp_net_landing_page\Indotalent\obj\Debug\net8.0\scopedcss\bundle\Indotalent.styles.css
+C:\_my_open_source\asp_net_landing_page\Indotalent\obj\Debug\net8.0\scopedcss\projectbundle\Indotalent.bundle.scp.css
+C:\_my_open_source\asp_net_landing_page\Indotalent\obj\Debug\net8.0\Indotalent.dll
+C:\_my_open_source\asp_net_landing_page\Indotalent\obj\Debug\net8.0\refint\Indotalent.dll
+C:\_my_open_source\asp_net_landing_page\Indotalent\obj\Debug\net8.0\Indotalent.pdb
+C:\_my_open_source\asp_net_landing_page\Indotalent\obj\Debug\net8.0\Indotalent.genruntimeconfig.cache
+C:\_my_open_source\asp_net_landing_page\Indotalent\obj\Debug\net8.0\ref\Indotalent.dll
+F:\.NET_CORE Project\ASP.NET-Landing-Page-main\bin\Debug\net8.0\appsettings.Development.json
+F:\.NET_CORE Project\ASP.NET-Landing-Page-main\bin\Debug\net8.0\appsettings.json
+F:\.NET_CORE Project\ASP.NET-Landing-Page-main\bin\Debug\net8.0\Indotalent.staticwebassets.runtime.json
+F:\.NET_CORE Project\ASP.NET-Landing-Page-main\bin\Debug\net8.0\Indotalent.staticwebassets.endpoints.json
+F:\.NET_CORE Project\ASP.NET-Landing-Page-main\bin\Debug\net8.0\Indotalent.exe
+F:\.NET_CORE Project\ASP.NET-Landing-Page-main\bin\Debug\net8.0\Indotalent.deps.json
+F:\.NET_CORE Project\ASP.NET-Landing-Page-main\bin\Debug\net8.0\Indotalent.runtimeconfig.json
+F:\.NET_CORE Project\ASP.NET-Landing-Page-main\bin\Debug\net8.0\Indotalent.dll
+F:\.NET_CORE Project\ASP.NET-Landing-Page-main\bin\Debug\net8.0\Indotalent.pdb
+F:\.NET_CORE Project\ASP.NET-Landing-Page-main\obj\Debug\net8.0\rpswa.dswa.cache.json
+F:\.NET_CORE Project\ASP.NET-Landing-Page-main\obj\Debug\net8.0\Indotalent.GeneratedMSBuildEditorConfig.editorconfig
+F:\.NET_CORE Project\ASP.NET-Landing-Page-main\obj\Debug\net8.0\Indotalent.AssemblyInfoInputs.cache
+F:\.NET_CORE Project\ASP.NET-Landing-Page-main\obj\Debug\net8.0\Indotalent.AssemblyInfo.cs
+F:\.NET_CORE Project\ASP.NET-Landing-Page-main\obj\Debug\net8.0\Indotalent.csproj.CoreCompileInputs.cache
+F:\.NET_CORE Project\ASP.NET-Landing-Page-main\obj\Debug\net8.0\Indotalent.MvcApplicationPartsAssemblyInfo.cache
+F:\.NET_CORE Project\ASP.NET-Landing-Page-main\obj\Debug\net8.0\Indotalent.RazorAssemblyInfo.cache
+F:\.NET_CORE Project\ASP.NET-Landing-Page-main\obj\Debug\net8.0\Indotalent.RazorAssemblyInfo.cs
+F:\.NET_CORE Project\ASP.NET-Landing-Page-main\obj\Debug\net8.0\rjimswa.dswa.cache.json
+F:\.NET_CORE Project\ASP.NET-Landing-Page-main\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+F:\.NET_CORE Project\ASP.NET-Landing-Page-main\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+F:\.NET_CORE Project\ASP.NET-Landing-Page-main\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+F:\.NET_CORE Project\ASP.NET-Landing-Page-main\obj\Debug\net8.0\scopedcss\bundle\Indotalent.styles.css
+F:\.NET_CORE Project\ASP.NET-Landing-Page-main\obj\Debug\net8.0\scopedcss\projectbundle\Indotalent.bundle.scp.css
+F:\.NET_CORE Project\ASP.NET-Landing-Page-main\obj\Debug\net8.0\staticwebassets.build.json
+F:\.NET_CORE Project\ASP.NET-Landing-Page-main\obj\Debug\net8.0\staticwebassets.build.json.cache
+F:\.NET_CORE Project\ASP.NET-Landing-Page-main\obj\Debug\net8.0\staticwebassets.development.json
+F:\.NET_CORE Project\ASP.NET-Landing-Page-main\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\.NET_CORE Project\ASP.NET-Landing-Page-main\obj\Debug\net8.0\swae.build.ex.cache
+F:\.NET_CORE Project\ASP.NET-Landing-Page-main\obj\Debug\net8.0\Indotalent.dll
+F:\.NET_CORE Project\ASP.NET-Landing-Page-main\obj\Debug\net8.0\refint\Indotalent.dll
+F:\.NET_CORE Project\ASP.NET-Landing-Page-main\obj\Debug\net8.0\Indotalent.pdb
+F:\.NET_CORE Project\ASP.NET-Landing-Page-main\obj\Debug\net8.0\Indotalent.genruntimeconfig.cache
+F:\.NET_CORE Project\ASP.NET-Landing-Page-main\obj\Debug\net8.0\ref\Indotalent.dll

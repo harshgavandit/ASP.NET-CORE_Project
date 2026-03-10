@@ -1,0 +1,68 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+/* Custom global styles for interactive UI enhancements */
+
+/* Hover-zoom effect for cards and images */
+.card, .service-item, .team-item {
+  transition: transform .3s, box-shadow .3s;
+}
+.card:hover, .service-item:hover, .team-item:hover {
+  transform: translateY(-5px) scale(1.02);
+  box-shadow: 0 15px 25px rgba(0,0,0,.1);
+}
+
+/* Image zoom on hover */
+img.img-fluid {
+  transition: transform .5s;
+}
+img.img-fluid:hover {
+  transform: scale(1.05);
+}
+
+/* subtle lift effect on all buttons */
+.btn {
+  transition: transform .2s;
+}
+.btn:hover {
+  transform: translateY(-2px);
+}
+
+/* Animated underline for links */
+a, a.nav-link {
+  position: relative;
+}
+a::after, a.nav-link::after {
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 2px;
+  bottom: -2px;
+  left: 50%;
+  background: var(--primary);
+  transition: width .3s, left .3s;
+}
+a:hover::after, a.nav-link:hover::after {
+  width: 100%;
+  left: 0;
+}
