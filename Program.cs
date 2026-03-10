@@ -4,6 +4,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorPages();
 
 var app = builder.Build();
+builder.WebHost.UseUrls("http://0.0.0.0:10000");
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
