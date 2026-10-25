@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # ASP.NET Core Landing Page
 
 A modern and responsive **Landing Page built using ASP.NET Core**.
@@ -26,7 +24,6 @@ Live Demo of the Website - https://asp-net-core-project-1-8ozw.onrender.com/
 * **CSS3**
 * **Bootstrap**
 * **JavaScript**
->>>>>>> 0a926f91cf920cd239fcca455fdea408c2ab0724
 
 ---
 
